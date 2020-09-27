@@ -1,6 +1,6 @@
 @ECHO OFF
 git pull
-python newversion.py
+python C:\Users\perec\Documents\Github Webs\gilaroca2\newversion.py
 git add .
 git commit -m "new stats"
 git push
